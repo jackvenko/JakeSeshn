@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JakeSeshn
-- 👀 I'm interested in creating websites and games.
+- 👀 I'm interested in creating websites, apps and games.
 - 🌱 I'm currently taking a programming course.
 
 <!---
